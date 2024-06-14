@@ -1,9 +1,9 @@
 theme: minima
 
 title: Ryan Drobny
-author: Ryan
-email: 
-url: 
+#author: Ryan
+#email: 
+#url: 
 
 timezone: Etc/UTC # GitHub uses UTC. This is to force dev environment to match
 future: false # GitHub Pages will publish future posts if this isn't set to false
@@ -22,7 +22,7 @@ linkedin_username:
 #pinterest_username: jekyll
 #youtube_username: jekyll
 #googleplus_username: +jekyll
-rss: rss
+#rss: rss
 
 show_excerpts: false
 
